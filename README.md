@@ -1,1 +1,1 @@
-# dotnetreasons
+Demos for my talk on reasons to move to .NET at Tech Ed 2023 in Prague (https://www.teched.cz/cs/).
